@@ -39,10 +39,10 @@ Estruturar o projeto para fins de estudo, compartilhamento e reprodutibilidade
 finance-powerbi/  
 ├── README.md  
 ├── data/  
-│   └── vendas.csv  
+│   └── vendas.csv
+│   └── relatorio.pbix    
 ├── assets/  
-│   └── imagens_dos_dashboards/  
-├── relatorio.pbix  
+│   └── imagens_dos_dashboards/ 
 └── insights.md
 ```
 
